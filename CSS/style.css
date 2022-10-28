@@ -66,7 +66,6 @@ p{
 @media screen and (max-width: 768px) {
     body{
         height: auto;
-        background-color: red;
     }
 
     .main{
